@@ -210,7 +210,7 @@ os.makedirs(BASE_DIR / 'templates', exist_ok=True)
 # ============================================================================
 
 # Alpha Vantage API配置 (免費版，每日500次請求)
-ALPHA_VANTAGE_API_KEY = os.environ.get('ALPHA_VANTAGE_API_KEY', 'CTH2VQ23IP8BBK0B')
+ALPHA_VANTAGE_API_KEY = os.environ.get('ALPHA_VANTAGE_API_KEY', 'Your API Key')
 
 # 股票API配置
 STOCK_API_CONFIG = {
