@@ -1,0 +1,194 @@
+INFO 2025-09-01 16:24:30,035 autoreload 49391 8697405632 Watching for file changes with StatReloader
+INFO 2025-09-01 16:25:43,498 autoreload 49633 8697405632 Watching for file changes with StatReloader
+INFO 2025-09-01 16:26:45,844 autoreload 49633 8697405632 /Users/joych53/side-project/portfolio-insight/backend/portfolio_insight/settings.py changed, reloading.
+INFO 2025-09-01 16:26:46,131 autoreload 49639 8697405632 Watching for file changes with StatReloader
+INFO 2025-09-01 16:26:58,487 autoreload 49639 8697405632 /Users/joych53/side-project/portfolio-insight/backend/portfolio_insight/settings.py changed, reloading.
+INFO 2025-09-01 22:21:47,489 views 66985 6170341376 正在從Alpha Vantage獲取 AAPL 的真實數據
+INFO 2025-09-01 22:21:48,541 views 66985 6170341376 ✅ 成功獲取 AAPL 真實數據: $232.14 (-0.18%)
+INFO 2025-09-01 22:36:39,308 views 67537 6203568128 正在從Alpha Vantage獲取 AAPL 的真實數據
+INFO 2025-09-01 22:36:40,415 views 67537 6203568128 ✅ 成功獲取 AAPL 真實數據: $232.14 (-0.18%)
+INFO 2025-09-01 22:36:56,358 views 67537 6203568128 正在從Alpha Vantage獲取 2330.TW 的真實數據
+ERROR 2025-09-01 22:36:56,624 views 67537 6203568128 API響應格式錯誤，使用模擬數據
+INFO 2025-09-01 23:21:32,668 views 67925 6124728320 使用 Yahoo Finance 獲取 AAPL 的圖表數據，週期: 1y
+INFO 2025-09-01 23:21:32,668 stock_data_service 67925 6124728320 正在獲取股票 AAPL 的實時數據
+INFO 2025-09-01 23:21:33,501 stock_data_service 67925 6124728320 成功獲取 AAPL 的股票數據
+INFO 2025-09-01 23:21:33,501 stock_data_service 67925 6124728320 正在獲取股票 AAPL 的歷史數據，週期: 1y
+INFO 2025-09-01 23:21:33,639 stock_data_service 67925 6124728320 成功獲取 AAPL 的 250 條歷史數據
+INFO 2025-09-01 23:26:09,666 views 67925 6124154880 使用 Yahoo Finance 獲取 ASML 的圖表數據，週期: 1y
+INFO 2025-09-01 23:26:09,667 stock_data_service 67925 6124154880 正在獲取股票 ASML 的實時數據
+INFO 2025-09-01 23:26:10,203 stock_data_service 67925 6124154880 成功獲取 ASML 的股票數據
+INFO 2025-09-01 23:26:10,203 stock_data_service 67925 6124154880 正在獲取股票 ASML 的歷史數據，週期: 1y
+INFO 2025-09-01 23:26:10,344 stock_data_service 67925 6124154880 成功獲取 ASML 的 250 條歷史數據
+INFO 2025-09-01 23:26:36,582 views 67925 6124154880 使用 Yahoo Finance 獲取 AAPL 的圖表數據，週期: 1y
+INFO 2025-09-01 23:26:36,582 stock_data_service 67925 6124154880 正在獲取股票 AAPL 的實時數據
+INFO 2025-09-01 23:26:36,895 stock_data_service 67925 6124154880 成功獲取 AAPL 的股票數據
+INFO 2025-09-01 23:26:36,896 stock_data_service 67925 6124154880 正在獲取股票 AAPL 的歷史數據，週期: 1y
+INFO 2025-09-01 23:26:37,072 stock_data_service 67925 6124154880 成功獲取 AAPL 的 250 條歷史數據
+INFO 2025-09-01 23:26:49,762 views 67925 13321187328 正在從Alpha Vantage獲取 AAPL 的真實數據
+INFO 2025-09-01 23:26:49,762 views 67925 6157807616 API速率限制，等待 12.0 秒
+INFO 2025-09-01 23:26:55,927 views 67925 13321187328 ✅ 成功獲取 AAPL 真實數據: $232.14 (-0.18%)
+INFO 2025-09-01 23:26:55,942 views 67925 13338013696 使用 Yahoo Finance 獲取市場總覽
+INFO 2025-09-01 23:26:55,942 stock_data_service 67925 13338013696 正在獲取股票 AAPL 的實時數據
+INFO 2025-09-01 23:26:56,364 stock_data_service 67925 13338013696 成功獲取 AAPL 的股票數據
+INFO 2025-09-01 23:26:56,365 stock_data_service 67925 13338013696 正在獲取股票 MSFT 的實時數據
+INFO 2025-09-01 23:26:56,816 stock_data_service 67925 13338013696 成功獲取 MSFT 的股票數據
+INFO 2025-09-01 23:26:56,817 stock_data_service 67925 13338013696 正在獲取股票 GOOGL 的實時數據
+INFO 2025-09-01 23:26:57,230 stock_data_service 67925 13338013696 成功獲取 GOOGL 的股票數據
+INFO 2025-09-01 23:26:57,231 stock_data_service 67925 13338013696 正在獲取股票 TSLA 的實時數據
+INFO 2025-09-01 23:26:57,682 stock_data_service 67925 13338013696 成功獲取 TSLA 的股票數據
+INFO 2025-09-01 23:26:57,683 stock_data_service 67925 13338013696 正在獲取股票 NVDA 的實時數據
+INFO 2025-09-01 23:26:58,137 stock_data_service 67925 13338013696 成功獲取 NVDA 的股票數據
+INFO 2025-09-01 23:26:58,137 stock_data_service 67925 13338013696 正在獲取股票 2330.TW 的實時數據
+INFO 2025-09-01 23:26:58,563 stock_data_service 67925 13338013696 成功獲取 2330.TW 的股票數據
+INFO 2025-09-01 23:26:58,563 stock_data_service 67925 13338013696 正在獲取股票 2454.TW 的實時數據
+INFO 2025-09-01 23:26:58,929 stock_data_service 67925 13338013696 成功獲取 2454.TW 的股票數據
+INFO 2025-09-01 23:26:58,929 stock_data_service 67925 13338013696 正在獲取股票 0700.HK 的實時數據
+INFO 2025-09-01 23:26:59,364 stock_data_service 67925 13338013696 成功獲取 0700.HK 的股票數據
+INFO 2025-09-01 23:27:01,767 views 67925 6157807616 正在從Alpha Vantage獲取 AAPL 的真實數據
+INFO 2025-09-01 23:27:02,039 views 67925 6157807616 ✅ 成功獲取 AAPL 真實數據: $232.14 (-0.18%)
+INFO 2025-09-01 23:27:02,046 views 67925 6124154880 使用 Yahoo Finance 獲取市場總覽
+INFO 2025-09-01 23:27:02,047 stock_data_service 67925 6124154880 正在獲取股票 AAPL 的實時數據
+INFO 2025-09-01 23:27:02,562 stock_data_service 67925 6124154880 成功獲取 AAPL 的股票數據
+INFO 2025-09-01 23:27:02,563 stock_data_service 67925 6124154880 正在獲取股票 MSFT 的實時數據
+INFO 2025-09-01 23:27:02,852 stock_data_service 67925 6124154880 成功獲取 MSFT 的股票數據
+INFO 2025-09-01 23:27:02,852 stock_data_service 67925 6124154880 正在獲取股票 GOOGL 的實時數據
+INFO 2025-09-01 23:27:03,066 stock_data_service 67925 6124154880 成功獲取 GOOGL 的股票數據
+INFO 2025-09-01 23:27:03,066 stock_data_service 67925 6124154880 正在獲取股票 TSLA 的實時數據
+INFO 2025-09-01 23:27:03,365 stock_data_service 67925 6124154880 成功獲取 TSLA 的股票數據
+INFO 2025-09-01 23:27:03,365 stock_data_service 67925 6124154880 正在獲取股票 NVDA 的實時數據
+INFO 2025-09-01 23:27:03,572 stock_data_service 67925 6124154880 成功獲取 NVDA 的股票數據
+INFO 2025-09-01 23:27:03,573 stock_data_service 67925 6124154880 正在獲取股票 2330.TW 的實時數據
+INFO 2025-09-01 23:27:03,833 stock_data_service 67925 6124154880 成功獲取 2330.TW 的股票數據
+INFO 2025-09-01 23:27:03,834 stock_data_service 67925 6124154880 正在獲取股票 2454.TW 的實時數據
+INFO 2025-09-01 23:27:04,125 stock_data_service 67925 6124154880 成功獲取 2454.TW 的股票數據
+INFO 2025-09-01 23:27:04,126 stock_data_service 67925 6124154880 正在獲取股票 0700.HK 的實時數據
+INFO 2025-09-01 23:27:04,448 stock_data_service 67925 6124154880 成功獲取 0700.HK 的股票數據
+INFO 2025-09-02 10:32:50,797 views 68735 6199193600 正在從Alpha Vantage獲取 AAPL 的真實數據
+INFO 2025-09-02 10:32:51,274 views 68735 6199193600 ✅ 成功獲取 AAPL 真實數據: $232.14 (-0.18%)
+INFO 2025-09-02 10:32:51,285 views 68735 6199193600 使用 Yahoo Finance 獲取市場總覽
+INFO 2025-09-02 10:32:51,285 stock_data_service 68735 6199193600 正在獲取股票 AAPL 的實時數據
+INFO 2025-09-02 10:32:52,457 stock_data_service 68735 6199193600 成功獲取 AAPL 的股票數據
+INFO 2025-09-02 10:32:52,457 stock_data_service 68735 6199193600 正在獲取股票 MSFT 的實時數據
+INFO 2025-09-02 10:32:52,874 stock_data_service 68735 6199193600 成功獲取 MSFT 的股票數據
+INFO 2025-09-02 10:32:52,875 stock_data_service 68735 6199193600 正在獲取股票 GOOGL 的實時數據
+INFO 2025-09-02 10:32:53,229 stock_data_service 68735 6199193600 成功獲取 GOOGL 的股票數據
+INFO 2025-09-02 10:32:53,230 stock_data_service 68735 6199193600 正在獲取股票 TSLA 的實時數據
+INFO 2025-09-02 10:32:53,732 stock_data_service 68735 6199193600 成功獲取 TSLA 的股票數據
+INFO 2025-09-02 10:32:53,732 stock_data_service 68735 6199193600 正在獲取股票 NVDA 的實時數據
+INFO 2025-09-02 10:32:54,171 stock_data_service 68735 6199193600 成功獲取 NVDA 的股票數據
+INFO 2025-09-02 10:32:54,173 stock_data_service 68735 6199193600 正在獲取股票 2330.TW 的實時數據
+INFO 2025-09-02 10:32:54,619 stock_data_service 68735 6199193600 成功獲取 2330.TW 的股票數據
+INFO 2025-09-02 10:32:54,619 stock_data_service 68735 6199193600 正在獲取股票 2454.TW 的實時數據
+INFO 2025-09-02 10:32:55,055 stock_data_service 68735 6199193600 成功獲取 2454.TW 的股票數據
+INFO 2025-09-02 10:32:55,056 stock_data_service 68735 6199193600 正在獲取股票 0700.HK 的實時數據
+INFO 2025-09-02 10:32:55,469 stock_data_service 68735 6199193600 成功獲取 0700.HK 的股票數據
+INFO 2025-09-02 10:33:18,571 views 68735 6199193600 用戶 AnonymousUser 獲取台股市場總覽
+INFO 2025-09-02 10:33:18,571 views 68735 6216019968 用戶 AnonymousUser 獲取台股市場總覽
+INFO 2025-09-02 10:33:18,571 taiwan_stock_service 68735 6199193600 獲取台股指數 ^TWII (加權指數)
+INFO 2025-09-02 10:33:18,571 taiwan_stock_service 68735 6216019968 獲取台股指數 ^TWII (加權指數)
+INFO 2025-09-02 10:33:19,565 taiwan_stock_service 68735 6199193600 獲取台股指數 ^TW50 (台灣50)
+INFO 2025-09-02 10:33:19,643 taiwan_stock_service 68735 6216019968 獲取台股指數 ^TW50 (台灣50)
+WARNING 2025-09-02 10:33:20,755 taiwan_stock_service 68735 6216019968 無法獲取 ^TW50 的數據
+INFO 2025-09-02 10:33:20,755 taiwan_stock_service 68735 6216019968 獲取台股指數 ^TWII.TW (加權指數(備用))
+WARNING 2025-09-02 10:33:20,768 taiwan_stock_service 68735 6199193600 無法獲取 ^TW50 的數據
+INFO 2025-09-02 10:33:20,769 taiwan_stock_service 68735 6199193600 獲取台股指數 ^TWII.TW (加權指數(備用))
+WARNING 2025-09-02 10:33:21,964 taiwan_stock_service 68735 6216019968 無法獲取 ^TWII.TW 的數據
+INFO 2025-09-02 10:33:21,964 taiwan_stock_service 68735 6216019968 獲取台股指數 ^TPEX (櫃買指數)
+WARNING 2025-09-02 10:33:21,969 taiwan_stock_service 68735 6199193600 無法獲取 ^TWII.TW 的數據
+INFO 2025-09-02 10:33:21,970 taiwan_stock_service 68735 6199193600 獲取台股指數 ^TPEX (櫃買指數)
+WARNING 2025-09-02 10:33:23,416 taiwan_stock_service 68735 6199193600 無法獲取 ^TPEX 的數據
+INFO 2025-09-02 10:33:23,416 taiwan_stock_service 68735 6199193600 獲取台股指數 TPEx.TW (櫃買指數(備用))
+WARNING 2025-09-02 10:33:23,419 taiwan_stock_service 68735 6216019968 無法獲取 ^TPEX 的數據
+INFO 2025-09-02 10:33:23,419 taiwan_stock_service 68735 6216019968 獲取台股指數 TPEx.TW (櫃買指數(備用))
+WARNING 2025-09-02 10:33:24,599 taiwan_stock_service 68735 6216019968 無法獲取 TPEx.TW 的數據
+INFO 2025-09-02 10:33:24,599 taiwan_stock_service 68735 6216019968 獲取台股漲停跌停股票
+ERROR 2025-09-02 10:33:24,599 taiwan_stock_service 68735 6216019968 獲取漲跌停股票失敗: name 'random' is not defined
+WARNING 2025-09-02 10:33:24,603 taiwan_stock_service 68735 6199193600 無法獲取 TPEx.TW 的數據
+INFO 2025-09-02 10:33:24,603 taiwan_stock_service 68735 6199193600 獲取台股漲停跌停股票
+ERROR 2025-09-02 10:33:24,603 taiwan_stock_service 68735 6199193600 獲取漲跌停股票失敗: name 'random' is not defined
+INFO 2025-09-02 10:57:50,958 views 69196 6157496320 用戶 AnonymousUser 獲取台股市場總覽
+INFO 2025-09-02 10:57:50,959 taiwan_stock_service 69196 6157496320 開始獲取台股市場總覽
+INFO 2025-09-02 10:57:50,959 taiwan_stock_service 69196 6157496320 獲取台股指數 ^TWII (加權指數)
+INFO 2025-09-02 10:57:51,908 taiwan_stock_service 69196 6157496320 獲取台股指數 ^TW50 (台灣50)
+WARNING 2025-09-02 10:57:53,200 taiwan_stock_service 69196 6157496320 無法獲取 ^TW50 的數據，使用模擬數據
+INFO 2025-09-02 10:57:53,200 taiwan_stock_service 69196 6157496320 獲取台股指數 ^TPEX (櫃買指數)
+WARNING 2025-09-02 10:57:54,395 taiwan_stock_service 69196 6157496320 無法獲取 ^TPEX 的數據，使用模擬數據
+INFO 2025-09-02 10:57:54,395 taiwan_stock_service 69196 6157496320 開始掃描 50 支台股，尋找漲跌停股票
+INFO 2025-09-02 10:57:54,396 taiwan_stock_service 69196 6157496320 檢查 2330.TW (1/50)
+INFO 2025-09-02 10:57:54,878 taiwan_stock_service 69196 6157496320 檢查 2454.TW (2/50)
+INFO 2025-09-02 10:57:55,419 taiwan_stock_service 69196 6157496320 檢查 2317.TW (3/50)
+INFO 2025-09-02 10:57:55,939 taiwan_stock_service 69196 6157496320 檢查 3008.TW (4/50)
+INFO 2025-09-02 10:57:56,626 taiwan_stock_service 69196 6157496320 檢查 2382.TW (5/50)
+INFO 2025-09-02 10:57:57,245 taiwan_stock_service 69196 6157496320 檢查 2308.TW (6/50)
+INFO 2025-09-02 10:57:57,936 taiwan_stock_service 69196 6157496320 檢查 3711.TW (7/50)
+INFO 2025-09-02 10:57:58,551 taiwan_stock_service 69196 6157496320 檢查 2379.TW (8/50)
+INFO 2025-09-02 10:57:59,221 taiwan_stock_service 69196 6157496320 檢查 2395.TW (9/50)
+INFO 2025-09-02 10:58:14,143 taiwan_stock_service 69196 6157496320 檢查 6505.TW (10/50)
+INFO 2025-09-02 10:58:14,844 taiwan_stock_service 69196 6157496320 檢查 3034.TW (11/50)
+INFO 2025-09-02 10:58:15,454 taiwan_stock_service 69196 6157496320 檢查 2409.TW (12/50)
+INFO 2025-09-02 10:58:16,238 taiwan_stock_service 69196 6157496320 檢查 3037.TW (13/50)
+INFO 2025-09-02 10:58:16,842 taiwan_stock_service 69196 6157496320 檢查 2357.TW (14/50)
+INFO 2025-09-02 10:58:17,534 taiwan_stock_service 69196 6157496320 檢查 2408.TW (15/50)
+INFO 2025-09-02 10:58:18,167 taiwan_stock_service 69196 6157496320 檢查 6239.TW (16/50)
+INFO 2025-09-02 10:58:18,855 taiwan_stock_service 69196 6157496320 檢查 3045.TW (17/50)
+INFO 2025-09-02 10:58:19,555 taiwan_stock_service 69196 6157496320 檢查 6285.TW (18/50)
+INFO 2025-09-02 10:58:20,161 taiwan_stock_service 69196 6157496320 檢查 2881.TW (19/50)
+INFO 2025-09-02 10:58:20,822 taiwan_stock_service 69196 6157496320 檢查 2886.TW (20/50)
+INFO 2025-09-02 10:58:21,563 taiwan_stock_service 69196 6157496320 檢查 2891.TW (21/50)
+INFO 2025-09-02 10:58:22,260 taiwan_stock_service 69196 6157496320 檢查 2892.TW (22/50)
+INFO 2025-09-02 10:58:22,909 taiwan_stock_service 69196 6157496320 檢查 2890.TW (23/50)
+INFO 2025-09-02 10:58:23,576 taiwan_stock_service 69196 6157496320 檢查 2884.TW (24/50)
+INFO 2025-09-02 10:58:24,301 taiwan_stock_service 69196 6157496320 檢查 2885.TW (25/50)
+INFO 2025-09-02 10:58:25,039 taiwan_stock_service 69196 6157496320 檢查 2883.TW (26/50)
+INFO 2025-09-02 10:58:25,673 taiwan_stock_service 69196 6157496320 檢查 2887.TW (27/50)
+INFO 2025-09-02 10:58:26,460 taiwan_stock_service 69196 6157496320 檢查 5871.TW (28/50)
+INFO 2025-09-02 10:58:27,119 taiwan_stock_service 69196 6157496320 檢查 5880.TW (29/50)
+INFO 2025-09-02 10:58:27,772 taiwan_stock_service 69196 6157496320 檢查 1301.TW (30/50)
+INFO 2025-09-02 10:58:28,378 taiwan_stock_service 69196 6157496320 檢查 1303.TW (31/50)
+INFO 2025-09-02 10:58:29,094 taiwan_stock_service 69196 6157496320 檢查 1326.TW (32/50)
+INFO 2025-09-02 10:58:29,713 taiwan_stock_service 69196 6157496320 檢查 2002.TW (33/50)
+INFO 2025-09-02 10:58:30,393 taiwan_stock_service 69196 6157496320 檢查 1216.TW (34/50)
+INFO 2025-09-02 10:58:31,091 taiwan_stock_service 69196 6157496320 檢查 2207.TW (35/50)
+INFO 2025-09-02 10:58:31,685 taiwan_stock_service 69196 6157496320 檢查 2412.TW (36/50)
+INFO 2025-09-02 10:58:32,353 taiwan_stock_service 69196 6157496320 檢查 1101.TW (37/50)
+INFO 2025-09-02 10:58:33,094 taiwan_stock_service 69196 6157496320 檢查 1102.TW (38/50)
+INFO 2025-09-02 10:58:33,813 taiwan_stock_service 69196 6157496320 檢查 2105.TW (39/50)
+INFO 2025-09-02 10:58:34,663 taiwan_stock_service 69196 6157496320 檢查 2801.TW (40/50)
+INFO 2025-09-02 10:58:35,351 taiwan_stock_service 69196 6157496320 檢查 4938.TW (41/50)
+INFO 2025-09-02 10:58:36,000 taiwan_stock_service 69196 6157496320 檢查 6446.TW (42/50)
+INFO 2025-09-02 10:58:36,763 taiwan_stock_service 69196 6157496320 檢查 4123.TW (43/50)
+WARNING 2025-09-02 10:58:38,038 taiwan_stock_service 69196 6157496320 4123.TW 無歷史數據
+INFO 2025-09-02 10:58:38,038 taiwan_stock_service 69196 6157496320 檢查 6472.TW (44/50)
+INFO 2025-09-02 10:58:38,624 taiwan_stock_service 69196 6157496320 檢查 1560.TW (45/50)
+INFO 2025-09-02 10:58:39,311 taiwan_stock_service 69196 6157496320 檢查 2618.TW (46/50)
+INFO 2025-09-02 10:58:39,910 taiwan_stock_service 69196 6157496320 檢查 2609.TW (47/50)
+INFO 2025-09-02 10:58:40,628 taiwan_stock_service 69196 6157496320 檢查 9910.TW (48/50)
+INFO 2025-09-02 10:58:41,253 taiwan_stock_service 69196 6157496320 檢查 2615.TW (49/50)
+INFO 2025-09-02 10:58:41,930 taiwan_stock_service 69196 6157496320 檢查 00878.TW (50/50)
+WARNING 2025-09-02 10:58:42,428 taiwan_stock_service 69196 6157496320 00878.TW 無歷史數據
+INFO 2025-09-02 10:58:42,428 taiwan_stock_service 69196 6157496320 掃描完成！檢查了 50 支股票，未發現漲跌停股票，使用增強模擬數據
+INFO 2025-09-02 10:58:42,428 taiwan_stock_service 69196 6157496320 使用增強版模擬漲跌停數據
+INFO 2025-09-02 11:04:47,769 views 69437 6159151104 用戶 AnonymousUser 獲取台股市場總覽
+INFO 2025-09-02 11:04:47,770 taiwan_stock_service 69437 6159151104 獲取台股市場總覽 - 真實數據版本
+INFO 2025-09-02 11:04:47,770 taiwan_stock_service 69437 6159151104 獲取台股真實指數數據
+ERROR 2025-09-02 11:04:47,852 taiwan_stock_service 69437 6159151104 獲取加權指數失敗: HTTPSConnectionPool(host='mis.twse.com.tw', port=443): Max retries exceeded with url: /stock/api/getStockInfo.jsp?ex_ch=tse_t00.tw&json=1&_=1756782287770 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+ERROR 2025-09-02 11:04:47,944 taiwan_stock_service 69437 6159151104 獲取櫃買指數失敗: HTTPSConnectionPool(host='www.tpex.org.tw', port=443): Max retries exceeded with url: /web/stock/iNdex_info/minute_index/1MIN_result.php?l=zh-tw&_=1756782287852 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+INFO 2025-09-02 11:04:47,945 taiwan_stock_service 69437 6159151104 開始獲取真實漲跌停股票數據
+ERROR 2025-09-02 11:04:48,867 taiwan_stock_service 69437 6159151104 獲取真實漲跌停數據失敗: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /rwd/zh/afterTrading/MI_INDEX?date=20250902&type=ALLBUT0999&response=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+INFO 2025-09-02 11:04:48,867 taiwan_stock_service 69437 6159151104 使用備用數據源
+INFO 2025-09-02 11:04:55,379 views 69437 6159151104 用戶 AnonymousUser 獲取台股市場總覽
+INFO 2025-09-02 11:04:55,380 taiwan_stock_service 69437 6159151104 獲取台股市場總覽 - 真實數據版本
+INFO 2025-09-02 11:04:55,380 taiwan_stock_service 69437 6159151104 獲取台股真實指數數據
+ERROR 2025-09-02 11:04:55,427 taiwan_stock_service 69437 6159151104 獲取加權指數失敗: HTTPSConnectionPool(host='mis.twse.com.tw', port=443): Max retries exceeded with url: /stock/api/getStockInfo.jsp?ex_ch=tse_t00.tw&json=1&_=1756782295380 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+ERROR 2025-09-02 11:04:55,862 taiwan_stock_service 69437 6159151104 獲取櫃買指數失敗: HTTPSConnectionPool(host='www.tpex.org.tw', port=443): Max retries exceeded with url: /web/stock/iNdex_info/minute_index/1MIN_result.php?l=zh-tw&_=1756782295427 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+INFO 2025-09-02 11:04:55,862 taiwan_stock_service 69437 6159151104 開始獲取真實漲跌停股票數據
+ERROR 2025-09-02 11:04:55,930 taiwan_stock_service 69437 6159151104 獲取真實漲跌停數據失敗: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /rwd/zh/afterTrading/MI_INDEX?date=20250902&type=ALLBUT0999&response=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+INFO 2025-09-02 11:04:55,930 taiwan_stock_service 69437 6159151104 使用備用數據源
+INFO 2025-09-02 11:05:07,216 views 69437 6159151104 用戶 AnonymousUser 獲取台股市場總覽
+INFO 2025-09-02 11:05:07,216 taiwan_stock_service 69437 6159151104 獲取台股市場總覽 - 真實數據版本
+INFO 2025-09-02 11:05:07,216 taiwan_stock_service 69437 6159151104 獲取台股真實指數數據
+ERROR 2025-09-02 11:05:07,280 taiwan_stock_service 69437 6159151104 獲取加權指數失敗: HTTPSConnectionPool(host='mis.twse.com.tw', port=443): Max retries exceeded with url: /stock/api/getStockInfo.jsp?ex_ch=tse_t00.tw&json=1&_=1756782307216 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+ERROR 2025-09-02 11:05:07,369 taiwan_stock_service 69437 6159151104 獲取櫃買指數失敗: HTTPSConnectionPool(host='www.tpex.org.tw', port=443): Max retries exceeded with url: /web/stock/iNdex_info/minute_index/1MIN_result.php?l=zh-tw&_=1756782307281 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+INFO 2025-09-02 11:05:07,369 taiwan_stock_service 69437 6159151104 開始獲取真實漲跌停股票數據
+ERROR 2025-09-02 11:05:07,415 taiwan_stock_service 69437 6159151104 獲取真實漲跌停數據失敗: HTTPSConnectionPool(host='www.twse.com.tw', port=443): Max retries exceeded with url: /rwd/zh/afterTrading/MI_INDEX?date=20250902&type=ALLBUT0999&response=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)')))
+INFO 2025-09-02 11:05:07,415 taiwan_stock_service 69437 6159151104 使用備用數據源
